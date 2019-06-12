@@ -4,6 +4,12 @@ jsproxy_config({
 
   // 节点配置
   node_map: {
+    'yan':{
+      label:'测试',
+      lines:[
+        "47.52.117.97.xip.io:8443"
+      ]
+    },
     'aliyun-hk': {
       label: '轻量云-香港',
       lines: [
