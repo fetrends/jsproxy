@@ -44,7 +44,7 @@ jsproxy_config({
   /**
    * 默认节点  
    */
-  node_default: 'yan',
+  node_default: 'aliyun-hk',
 
   /**
    * 加速节点
